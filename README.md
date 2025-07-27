@@ -18,4 +18,4 @@ IoT-Fire-Smoke-Alert/
     ├── index.html         # UI page
     └── script.js          # Polling or SSE
 ```
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b07d3345-cac8-479a-be1f-9761386bbd39" />
