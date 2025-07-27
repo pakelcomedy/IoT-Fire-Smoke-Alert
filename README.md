@@ -16,10 +16,10 @@ IoT-Fire-Smoke-Alert/
 │   ├── wifi.c / wifi.h    # Wi-Fi connection
 │   ├── sensor.c / sensor.h# MQ-2 analog read
 │   ├── buzzer.c / buzzer.h# Buzzer control
-│   ├── webserver.c / .h   # HTTP webserver
-├── web/
-│   ├── index.html         # Simple UI
-│   └── script.js          # Auto-refresh or SSE (optional)
+│   └── webserver.c / .h   # HTTP webserver
+└── web/
+    ├── index.html         # Simple UI
+    └── script.js          # Auto-refresh or SSE (optional)
 ```
 
 ---
